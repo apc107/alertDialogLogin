@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">alertDialogLogin</string>
+    <string name="btnClickToLogin">Click to Login</string>
+    <string name="textVInfo">Welcome, please login</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="dtvusername">Username:</string>
+    <string name="tvPassword">Password:</string>
+    <string name="tvusername">Username:</string>
+    <string name="tvUsername">Username:</string>
+    <string name="txtCbShowPass">Toggle Password/Text View</string>
+</resources>
